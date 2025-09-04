@@ -1,1 +1,1 @@
-Hi, I'm David Feldman, and I'm studying computer science and math at the University of Illinois at Urbana-Champaign. I like moving bytes around, especially when abstract math shapes that process, and the computation sharpens the math.
+Hi, I'm David Feldman, and I'm studying computer science and math at the University of Illinois at Urbana-Champaign. I like moving bytes around, especially when math shapes that process, and the computation sharpens the math.
